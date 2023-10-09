@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "product-management-ed7e2": {
+      "hosting": {
+        "product-management": [
+          "product-management-ed7e2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "product-management-ed7e2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "product-management",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
